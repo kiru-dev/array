@@ -14,7 +14,7 @@ int main()
     
     printf("\nEnter a number\n");
     scanf("%d", &b);
-    printf("Enter a position=n");
+    printf("Enter a position\n");
     scanf("%d", &p);
     
     for(i=1;i<=n;i++)
